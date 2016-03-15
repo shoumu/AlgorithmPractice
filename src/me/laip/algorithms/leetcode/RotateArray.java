@@ -3,7 +3,7 @@ package me.laip.algorithms.leetcode;
 /**
  * Created by Arthur on 2015/3/14.
  */
-public class RotateArray {
+class RotateArray {
 
     public void rotate(int[] nums, int k) {
         k = k % nums.length;

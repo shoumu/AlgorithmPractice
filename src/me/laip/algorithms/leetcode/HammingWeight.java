@@ -3,7 +3,7 @@ package me.laip.algorithms.leetcode;
 /**
  * Created by Arthur on 2015/3/12.
  */
-public class HammingWeight {
+class HammingWeight {
 
     public int hammingWeight(long n) {
         int num = 0;
